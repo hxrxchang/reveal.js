@@ -1,0 +1,184 @@
+# アルバイトLT
+2018/04/13
+
+----
+## 自己紹介
+### 原悠人
+ - ハンズラボのChief Part-time Officer
+ - 大学○年生　文系
+ - プログラミング歴　約10ヶ月
+ - ファション関連のスタートアップでインターン（Node.jsで開発)
+
+----
+## 今回選んだ本
+
+ ![](https://images-na.ssl-images-amazon.com/images/I/51aS7nr%2BKhL._SX390_BO1,204,203,200_.jpg)
+
+----
+## なぜこの本なのか
+- 今のところ、フロントエンドの方向に尖りたいと思っている
+<br>(PWAとか流行りそう。業務アプリケーションでもUXは大切）
+
+- **ラボでもJSで仕事がしたい**
+
+----
+### フロントエンドのフレームワーク達
+![](data:image/png;base64,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)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQsAAAC9CAMAAACTb6i8AAAAYFBMVEX///9h2vta2ftX2vxZ2/zy/P/6/v/7/v/2/f/v+/9o3v2x7f5i3f3g+P+F5P3Y9v+j6v544f298P6s7P6N5v6Z6P7I8v667/7T9f/m+f+U5/7O8/574f3F8v/p+f6I5f5U2K0+AAAN1klEQVR4nO1d6ZqiOBQtk6gQdhFxQX3/txyQ3CyQhaouSzJfzvzo6S6xyOXuObl8fQUEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBASsDtH+03fwSzjXOaUbmpf3x/cvjoarEcGoup52v39vf4pdnWKENj0QQoSW2bcuvueEXd1fj0nptTRuKVvJBhZE22jhtZemF4R6dXp+692+FQnezIBIuV1wafacCOIF3L79nt8EnShGabiU/XHUSWIQxv1P7vzXcdaL4qXsB9uF+5LoJTEI41seZy3YpbDyPg5ggpC8PlyZ16Q6GYT6i7FwofQPl/BrKNnd4+6exdvLra5kvUe41F8WHbH8qbS5X3qL2t5y9s8+uoyYzO49bqkkDkR1qiErBcJHKXC0TBipf4lXjXSPsciFNBBOZleVQil6FxsrP2Ou2EP3SccF5dN/zzqxXJyryUZcSYKah97xp6h6412/BQU2uv0bFStW7OQswgfOL/MLWWDCP8jlP4rRc6JO+8OaGwqSNF6kIyg9aa9jumYNyCsE02eD079UfN08njTin46GPH30Qej4ljt+G7bEoc61tPLh77uOqwoxOsdsvMizFKNw3nXBgyfqdl9b7jVRZXYH+zF9I7HxE2vE3a3NEWRP/fIL7k5xY/vaUXlw8ct3+14w1zlPIJQPcWEIg7H7Rfa1fjnP63jT+nDAcZ9Ub4g4nng7fm39ezf6B1iozIVSkCLqyhxuL+Ehqx2tDtWo8ZqEScWDSuVH5Wx5jS4ZPX/nJv8IY1aE3Q4/qrgoZun6HGNQXfLJFYHJwt3Ne1CuF9QtuccoC78qEvaonUofyyU6dX/cX1lg1+IiqvjOytWa8FIW6TJZVLIojKWcgJc2ssxfHKGJCZaCrvYLLniRyNYFJgt7vgB5J3pGoCDYnkZ5GUdYrmVt4EMDc3jMW3Ac9g7e2M1xac/K8BxlYdvzg+2TMXzEsINgzVVPYw5uaKGvFM1405aH/GB98k06phXZ5O9atEtKvrWhdt30HjwEATviemKJEqVTxCsE61+YiygIIfjG/+kAwjC7g6Pb9NaHsyP4QZ9X2SKBuGLeGhuVyV3yrQoPe4+v0KtADspiiD+sx5cuIS2sB1FqS7YiqncNOxZZTZWJQ8JrBbUFyCd7/ukliuP4cenxeMTxNspYZDU0Ss8+plrg5XSdye1DbArRlBCCRxCSpryAx8lDo1KJj+kFv205kGyzU32taGqg3KhAOKXVtb5nskiOPoZU3pkcHcL+cqpzOnDy0BI5cHn0wITm5ekykpqo1bOuFiytJLvtuc5Twav5AQZmTtrVt3g72la6lAm4GjDTp+RfxKAIhLCtZb+6FwOuvyEBrVR8c51FSR0r6hW/f9R96KC0GtD/maZjRHFIkZYe7SFmJdWvR1gLSk7n7BJHu73U4tzvou0jO99aNL9A+Rr8TTL1pxAnlUYQQ0TA9Fmyv2qYWjIS+ILySQe3q/k+TJO177YXxzlNtRdD2pWHLOKENqf7YwX9UPNH2aHsUo0DRuS4Zls56VSCXg8Z4zxnUIi6Cs3L5IO7rL3OHRDC1VrTrrvWSxApcWTcG4eFDGBpulz0P3REe0zXyD/oJaEaBnBdBe+ANWsWJQjMSiQ+BvOoKVHNBdO16UZRqZLAXRtdJ9wcVscvy6HBnESS2THuRdR2qv7hak19ruiqUr2rZNgYObGUGQ5INMwhLmNPlJNPswT81QWYxCqEj6vp7txlYj8iDXvuwOVjHc35k7ZiR1UtujMTYT/OGqL80nUYyu4qmUcf9sUjGlt20MdjDbzFdO6T6j7zaRMgamUPZeSE/iUyaat84sfuspHc5pGBYf/Iiiyeb7GD8F7OF0xEcQ2yv9YfO/hT3CTe/9Sjg5G8FjNRecDudOwTqf4/ejxNxAFJxqu9eUCq82G4S9xy7GDKvRsH/mAQSWaPlun1U3xw6jjbVKKG08leQCmyT4gi862TRCLUf3Q/reWiwEdNecCMpE+34MAVURz+Q43EfXRUNuYhCPfe9qEzkRGxOIj0SWFwfqaB2M8Wg1qottRNxWJWu0wInkzUqIRCJv3S4cTjmIMq+0bAjs8G54b4ztKtCp4wlc2oIJs5iOJPKGgTBaFosc25MD5UrkWcJmDsNLH9YqSLp9t0owFS0g8WfDYd+0XGUMHp1B9qhkIXz3YyUCku1ULkOTUQ9iFlm6hDxutV8I3pjxwu4QW4zUZr5VDqTfqJ8SSvouaF/CnTyZwXwHd9xEpA762+Wy601cfa6dViukWYSx8j1qqjNSZzbwfLhFw6KVmCEhAvJrWYMN4yKbN00LQYpeMDjAQWJe3PSjYFVS1ak1pMN2GFYrhqfYjgf3+iAtoJrs+J7WLZW3Bejk4WyvPniuFuASWfOr+q0WctQAEmt1hphACLVi2eE1ScBW7MxPbdpfwrWN2lTwRlQBYyOWNk20pSuSYQSqj7HPsihu3vgx3dX0CRYRqgniXZL5cFkB8XqP6HZLFnK1x4FGiWP9tkoa66ARtxdjV3rBT889RzfNxuXgh3kmrEyS2+UzlCBbMjFlCTTp+iczXLnDZfykQxSossav0HnbpfuUil7wIMHXCMKUnEmhXFKCy5lpxFC1k6yQYs8VRj99/A0LTTf2q+FrPDUHRc1p9pg08F77P/eEU/B1SGqU11lQpMOYduGDg10bRY/pS1oQkHDT4zTweIqTZhKOmlYsk7k2IoeUSjXG8pu/hB188QYXm0TI1l8lZtXSnez1C0K94CylyquV5BBm2+TzW2+AwLYwsD9oNhc+SqvVwRhdICgNIzYz0+U/XD2/HmFtu7wS3AtGtVQScfmh2Koy3nwlDXkvG+AHOhegOI+M7dJ09384xJ3wi/8P3gTNtoSaaDGCeOD/gaD7heawE3aarI7y3t+xDdKfycG3MtniZouyqyTN4vR9PBdLCjOrhcYx71eIoOSffZMWRio0YzjFLq5EOFNa02b/lIjUaY5JMkCeq3Vyhu9UYSSWMM8cfHH0geEJFacRug2K+nDRuCM/e3vSVlUybnWYOslq+IdRtnUS3tNn3ObQooE/RIKVkKW8xYskAfgyytqCHNomO22c2M5CGPtkTkwzvLI7a5FA8QFkzDStEE2F1eqsngYVglPDUSlT2Ju7WwPQ8KMQdoqLAfDH3pSus+TYCUBArhWI4kcaJwBhFZ0SDLqFGiI8L5YQuUCfEkv0NSAscpoihvNm8P+eS3XVdD13ohm9wfIk9mIsKlfYe8NqWu8eqfPlVSI8Ldxwk5MxQTqiEUCOJOOanRXTNoiG5Qm6i/ZF2ERoEi17HiSxEt2Z7ngpm9M6rr9lzPvnrQiXVKYsClITMSO8K4atrs9YBZzu48DgMU6FeLMyraptKcKkHkuj7rkBG1+iMTGNNjfTsBMdpuJWAh6HSrj/pTWkhhT64WpqM0Q6IN/08t69jzKSkbw5m9/nuaNZ+XUFA0VLcGWb9p1T2vTVknSdseDoe2TZK6bK55V1HzpPQR6fXm11sWLE1/oSc6OC/z7Qg3T6G/dzrXLjqZ++oVWL1+Ohic3zfFQOj1XjDKh29zoNkez2vIe3yDE9w/kMIghmdyflU4bPrjBzaD/gmzwShxcShzmuqPFWqFMBzvf5b3QoSc60L+y8rAJh5Nk6rocb4nojFodJyoS+7FY1rEtYJf7hPYI9Ruw8P4k016uh+GWDqgj62H+wk2kPS1rHu69CrBpvzok2SeV04rVqCDGvJSGHTgQcIpYW8f1AjnCyZ7AJyvavIIjHjj1xwlF4WJj9eS60wYvWbOptiYP78CSeaYr7UHlyElC0CWt8x3ZQSYFXX0FuDmGqgI+yXSwmdT6ebwcnjQwZkJwHEI3tzlZmOhgC0Yzb8+1G5lBjIKSxfglRvWLR/XaLtVghm21cnB+ZNXZOWSsVahXr50Y1yng5IJ+WevCvwojH0UtJdD6HJbqgXgE7ERJ3LYBpl+iWTLq1YOk4UjKXrwV+NtnCHkhcjHCVvdIlmIwbaazEuHnceycHZdFAKb+1TEjnVFvCpIFuoF5968Pu1OJ73Ui0W+8wXO4FySNXjpL9iQYvcmRiLxvd3pZMwE59XrIZuFBaVCa0S563l7mWstyMEHTE7gOV9YdJangvqCw5KCUrwWk/9J7FH14GNtxh6gtUsrvfmuEcHEegy69LFmX1A4iEMTfTDNxAiLoyXB7iwd5dUC+p1G+48EXfflYWO+GY2oMfqwVMu3gb9sVI7pAMFZ2Ec6rmwn0alNLaCzj6UZ78bpuxE78a5UVPHKVHqBquGN5Y3tS9cL4D/rjETMt+m9g5Q2iUlECJeaVCMaTcSz1u8X32efd3+Vl0+rUUNElt505iuGV3v7ts/Ob3ziCC9HaTjZ7HBWJNGpZ6M5L0wt/Op2DoCDpcrJvLPMesRPjR208gfSWroYIo1nO0UvQAEKIxT3RSm/SgARfYy5yPPHEO6S7OVRdjAM0rMEfAQ/g4jTZ1NeJwxNnBs7m8rJq4ENWXW5IEp69oIeBmlW35STZnoB+4j4OT2HJqmTX++R5TCN0UfExawpdIRZby3kBe1gB825NA2047WXvFZ0tWjwdDF9bFjYuD13M2ng3LPsW8GNKocuSf6dU2GPmkpsyF6MftWnc5xyQtgLZq73b/fyL+0zfb3RiKTHVRyu+0fsL+fT6Zb9eE8jumTZZS1H6wICAgICAgICAgICAgICAgICAgICAgICAgL+n/gPzPGOF0NrkIAAAAAASUVORK5CYII=)![](data:image/png;base64,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)
+
+----
+### Angularの特徴
+- Googleによるメンテナンス
+- 基本的にTypeScriptで書く
+- フルスタックなフレームワークである（良し悪し）
+- コンポーネント指向
+----
+## 実際にAngularで作って理解する
+----
+## 作ったもの
+### 住所検索アプリケーション
+- 郵便局のAPIを利用した、郵便番号を入れると住所を返すというシンプルなアプリ
+----
+## 作る前の疑問
+- コンポーネント指向でルーティングってどうやるの？
+- HTTPどうやるの?
+### **↑これが分かればなんでもできるはず**
+----
+## 必要なもの
+- node.js, npm
+- angular-cli
+### ↑これだけ
+```
+npm i -g @angular/cli
+ng new myapp
+cd myapp
+ng serve
+```
+----
+## デモ
+----
+## 嵌った点
+----
+## TypeScript
+----
+#### 変数
+```ts
+let hoge: number = 1111111111111;
+```
+=> OK
+```ts
+let hoge: number = '1111111111111';
+```
+=> ERROR
+#### 配列
+```ts
+let hogeList: string[] = [];
+let hoge = 1;
+hogeList.push(hoge);
+```
+=> ERROR
+----
+
+#### 関数
+```ts
+function incrementHoge(hoge: number): number {
+    return ++hoge;
+}
+```
+=> 引数にも返り値にも型をつけましょう
+----
+## HTTP
+----
+### 返り値の型をしっかり決めないとアクセスできない
+  address-api.service.ts
+```ts
+import { Address } from '../types/address.type';
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+fetchAddress(postCode: number): Observable<Address> {
+    const URL = `http://api.zipaddress.net/?zipcode=${postCode}`;
+
+    return this.http.get<Address>(URL);
+}
+```
+----
+  #### address.type.ts
+```ts
+export interface Address {
+    code: number;
+    data: {
+      pref: string;
+      address: string;
+      city: string;
+      town: string;
+      fullAddress: string;
+    }
+}
+```
+----
+## RxJS
+### 標準のHttp ClientがObservableを返す
+```ts
+fetchAddress(postCode: number): Observable<Address> {
+    const URL = `https://api.zipaddress.net/?zipcode=${postCode}`;
+
+    return this.http.get<Address>(URL);
+}
+```
+----
+## RxJSとは
+- RxJS は Reactive Extensions for JavaScript の略称
+- 非同期処理を簡潔かつ可読性高くコーディング出来ることを主な目的としている
+
+## Observableとは
+- Rx の基本
+- イベントや値 ( データ ) が時間軸という名のストリームを流れる要素として扱えるように設計されたもの =>「川」
+----
+#### search-result.component.ts
+```ts
+this.api.fetchAddress(this.postCode)
+.subscribe((res) => {
+    if (res.code === 200) {
+      this.addressData = res.data.fullAddress;
+    }
+})
+```
+----
+#### Promiseみたい
+#### Promiseより便利
+----
+## ルーティング
+##### URLが変わると当てはめられたコンポーネントが呼ばれる
+##### app-routing.module.ts
+```ts
+const routes: Routes = [
+    { path: '', component: TopPegeMessageComponent },
+    { path: 'search', redirectTo: '' },
+    { path: 'search/:postcode', component: SearchResultComponent },
+];
+```
+----
+## ルーティング/謎
+URLが変わるたびに呼ばれたコンポーネントのデータが初期化されちゃう？？
+<br>=> ページ遷移時のデータの渡し方にいい方法ないのかな？？
+
+----
+## まとめ
+- angular-cliで簡単に始められる
+- TypeScriptに慣れよう
+- RxJsはpromiseの上位互換?
+- ルーティングも標準で入っている。
+----
+## 作り終えて
+- 疎結合すぎてどこで何をやるのか頭がクラクラする
+- フロントエンド志望のくせにマークアップが弱すぎてやばい
+=> 研修で頑張る
+### 全員にオススメです!!!
+----
+## Special Thanks
+## 尾島さん！！
+![](https://avatars3.githubusercontent.com/u/10055293?s=460&v=4)
+
+
+
+
